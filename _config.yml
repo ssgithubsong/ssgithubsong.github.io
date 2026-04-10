@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kangneng Zhou (周康能)"
-description              : "Ph.D student in Nankai University. Focusing on image synthesis and neural rendering."
-repository               : "https://montaellis.github.io/"
+title                    : "Shuang Song"
+description              : "Prof."
+repository               : "https://ssgithubsong.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MontaEllis"
+  github           : "ssgithubsong"
   google_plus      :
   keybase          :
   instagram        :
