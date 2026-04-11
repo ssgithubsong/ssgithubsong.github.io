@@ -98,15 +98,14 @@ Lixing Tan, **Shuang Song**, Kangneng Zhou, Chengbo Duan, Lanying Wang, Huayang 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT/div><img src='images/STOLS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/STOLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spatio-Temporal Constrained Online Layer Separation for Vascular Enhancement in X-Ray Angiographic Image Sequence](https://ieeexplore.ieee.org/document/8842603)
 
 **Shuang Song**, Chenbing Du, Danni Ai, Yong Huang, Hong Song, Yongtian Wang, Jian Yang
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 </div>
 </div>
 
