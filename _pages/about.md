@@ -98,7 +98,7 @@ Lixing Tan, **Shuang Song**, Kangneng Zhou, Chengbo Duan, Lanying Wang, Huayang 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT/div><img src='images/STOLS.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT/div><img src='images/STOLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spatio-Temporal Constrained Online Layer Separation for Vascular Enhancement in X-Ray Angiographic Image Sequence](https://ieeexplore.ieee.org/document/8842603)
@@ -111,7 +111,7 @@ Lixing Tan, **Shuang Song**, Kangneng Zhou, Chengbo Duan, Lanying Wang, Huayang 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB</div><img src='images/3DRA-segmentation.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMPB</div><img src='images/3DRA-segmentation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-throughput 3DRA segmentation of brain vasculature and aneurysms using deep learning](https://www.sciencedirect.com/science/article/abs/pii/S01692607230002260)
@@ -140,7 +140,7 @@ Cheng Chen, **Kangneng Zhou**, Zhiliang Wang, Ruoxiu Xiao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APL bioengineering</div><img src='images/SAVS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APL bioengineering</div><img src='images/SAVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Key influencers in an aneurysmal thrombosis model: A sensitivity analysis and validation study](https://pubs.aip.org/aip/apb/article/9/1/016107/3335593)
@@ -153,7 +153,7 @@ Qiongyao Liu,  Toni Lassila,  Fengming Lin,  Michael MacRaild, Tufail Patankar, 
 </div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APL bioengineering</div><img src='images/ht.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APL bioengineering</div><img src='images/ht.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hemodynamics of thrombus formation in intracranial aneurysms: An in silico observational study](https://pubs.aip.org/aip/apb/article/7/3/036102/2900843)
@@ -166,7 +166,7 @@ Qiongyao Liu, Ali Sarrami-Foroushani, Yongxing Wang, Michael MacRaild, Christoph
 </div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNIS</div><img src='images/pcaa.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNIS</div><img src='images/pcaa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Off-label in-silico flow diverter performance assessment in posterior communicating artery aneurysms](https://jnis.bmj.com/content/neurintsurg/17/11/1160.full.pdf)
